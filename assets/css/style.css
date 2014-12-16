@@ -358,6 +358,7 @@ div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
   color: #1abc9c;
 }
+<!--
 div.header a.logo {
   display: block;
   position: relative;
@@ -389,6 +390,7 @@ div.header a.logo i {
   top: 50%;
   margin-top: -20px;
 }
+-->
 div.header:after {
   visibility: hidden;
   display: block;
@@ -871,9 +873,11 @@ div.footer ul li.link-icon a {
   div.header div.title ul.social {
     display: none;
   }
+<!--
   div.header a.logo {
     margin-top: 75px;
   }
+-->
   div.posts {
     margin-top: 130px;
     padding: 110px 60px 0 60px;
