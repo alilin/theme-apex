@@ -404,7 +404,7 @@ div.header:after {
   clear: both;
 }
 div.posts {
-  padding: 95px 80px 9px 80px;
+  padding-top: 95px;
 }
 div.post h2,
 div.post h3 {
