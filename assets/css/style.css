@@ -433,13 +433,14 @@ div.post ol li {
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 18px;
+  font-family: 'Luma';
+  line-height: 22px;
   color: #bbb;
   font-weight: 700;
-  padding: 10px 0 10px 30px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  padding: 5px 0 5px 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 div.post h2,
 div.post h3 {
@@ -492,6 +493,7 @@ div.post div.post-body {
   font-family: 'Helvetica';
   font-size: 12px;
   line-height: 18px;
+  overflow-y:hidden;
 }
 div.post div.post-body .post-content {
   display: block;
