@@ -363,7 +363,7 @@ div.header a.logo {
   position: relative;
   width: 85px;
   height: 85px;
-  border: 10px solid #ffffff;
+  border: 0px solid #ffffff;
   background-color: #000000;
   margin: 0 auto;
   margin-top: 80px;
@@ -674,7 +674,7 @@ div.post div.post-info {
   display: block;
   clear: both;
   width: 100%;
-  padding: 0 0 0px 0;
+  padding: 0 0 0 0;
 }
 div.post div.post-info:after {
   visibility: hidden;
