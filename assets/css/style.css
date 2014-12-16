@@ -620,7 +620,7 @@ div.post div.post-body .post-content .post-pdf object {
 div.post p {
   font-weight: 400;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 18px;
 }
 div.post p.read-more,
 div.post p.back {
@@ -649,8 +649,8 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 30px;
-  line-height: 46px;
+  font-size: 40px;
+  line-height: 40px;
   padding-bottom: 10px;
 }
 div.post h2 {
