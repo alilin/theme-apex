@@ -84,19 +84,7 @@
               </a>
             </li>
           </ul>
-        </div>
-          
-          {% if site.tags %}
-              <div class="tag-cloud">
-                <h4>Tags</h4>
-                  <ul>
-                  {% for tag in site.tags %}
-                  <li><a href="/tag/{{ tag.name }}">{{ tag.name }}</a></li>
-                  {% endfor %}
-                  </ul>
-              </div>
-          {% endif %}
-          
+        </div>          
         <a class="logo" href="/">
           <img class="avatar" src="{{ site.avatar }}" alt="{{ site.author }}" width="100%" height="100%" />
         </a>
