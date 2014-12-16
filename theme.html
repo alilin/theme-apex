@@ -170,14 +170,27 @@
             {% endif %}
 
             {{ theme.social.bar }}
-
-            {% if post.tags %}
+              
+            {% if site.tags %}
+              <div class="tag-cloud">
+                <h4>Tags</h4>
+                  <ul>
+                  {% for tax in site.tags %}
+                  <li><a href="/tag/{{ tag.name }}">{{ tax.name }}</a></li>
+                  {% endfor %}
+                  </ul>
+              </div>
+            {% endif %}
+              
+              
+<!--            {% if post.tags %}
             <ul class="post-tags">
             {% for tag in post.tags %}
               <li><a href="/tag/{{ tag }}">{{ tag|format_tag(link=False, humanize=True) }}</a></li>
             {% endfor %}
             </ul>
             {% endif %}
+-->
           </div>
           <div class="post-footer">
             <p class="back"><a href="/">&laquo; Go Back</a></p>
