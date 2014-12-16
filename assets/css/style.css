@@ -416,7 +416,7 @@ div.post h3 {
   font-size: 22px;
 }
 div.post p {
-  font-size: 10px;
+  font-size: 14px;
   line-height: 30px;
   font-weight: 300;
   margin: 0;
@@ -428,11 +428,11 @@ div.post ol li {
   margin-left: 40px;
   padding: 10px 0 10px 0;
   line-height: 16pt;
-  font-size: 10px;
+  font-size: 14px;
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 10px;
+  font-size: 14px;
   line-height: 32px;
   font-weight: 700;
   padding: 10px 0 10px 30px;
@@ -450,7 +450,7 @@ div.post h3 {
   font-size: 22px;
 }
 div.post p {
-  font-size: 10px;
+  font-size: 14px;
   line-height: 30px;
   font-weight: 300;
   margin: 0;
@@ -462,11 +462,11 @@ div.post ol li {
   margin-left: 40px;
   padding: 10px 0 10px 0;
   line-height: 16pt;
-  font-size: 10px;
+  font-size: 14px;
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 22px;
+  font-size: 14px;
   line-height: 32px;
   font-weight: 700;
   padding: 10px 0 10px 30px;
@@ -486,8 +486,8 @@ div.post.whole {
 }
 div.post div.post-body {
   font-weight: 400;
-  font-size: 12px;
-  line-height: 28px;
+  font-size: 14px;
+  line-height: 18px;
 }
 div.post div.post-body .post-content {
   display: block;
@@ -619,12 +619,12 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 28px;
 }
 div.post p.read-more,
 div.post p.back {
-  font-size: 16px;
+  font-size: 10px;
 }
 div.post p.read-more a,
 div.post p.back a {
@@ -636,11 +636,11 @@ div.post p.back a:hover {
 }
 div.post p.date {
   color: #999999;
-  font-size: 16px;
+  font-size: 10px;
 }
 div.post p.comments {
   color: #999999;
-  font-size: 16px;
+  font-size: 10px;
 }
 div.post p.comments a {
   color: #999999;
@@ -649,7 +649,7 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 38px;
+  font-size: 30px;
   line-height: 46px;
   padding-bottom: 10px;
 }
@@ -667,8 +667,8 @@ div.post h2 a:hover {
 div.post div.post-body ul li,
 div.post div.post-body ol li {
   font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 14px;
+  line-height: 20px;
 }
 div.post div.post-info {
   display: block;
@@ -702,7 +702,7 @@ div.post div.post-info p.date {
   color: #999999;
 }
 div.post div.post-comments {
-  padding-top: 30px;
+  padding-top: 20px;
 }
 div.post .socialbar-container {
   padding-top: 20px;
