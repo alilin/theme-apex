@@ -619,12 +619,12 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 10px;
+  font-size: 18px;
   line-height: 28px;
 }
 div.post p.read-more,
 div.post p.back {
-  font-size: 8px;
+  font-size: 10px;
 }
 div.post p.read-more a,
 div.post p.back a {
@@ -636,11 +636,11 @@ div.post p.back a:hover {
 }
 div.post p.date {
   color: #999999;
-  font-size: 8px;
+  font-size: 10px;
 }
 div.post p.comments {
   color: #999999;
-  font-size: 8px;
+  font-size: 10px;
 }
 div.post p.comments a {
   color: #999999;
@@ -649,7 +649,7 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 38px;
+  font-size: 30px;
   line-height: 46px;
   padding-bottom: 10px;
 }
@@ -667,8 +667,8 @@ div.post h2 a:hover {
 div.post div.post-body ul li,
 div.post div.post-body ol li {
   font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 10px;
+  line-height: 20px;
 }
 div.post div.post-info {
   display: block;
