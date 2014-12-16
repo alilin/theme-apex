@@ -619,12 +619,12 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 10px;
   line-height: 28px;
 }
 div.post p.read-more,
 div.post p.back {
-  font-size: 16px;
+  font-size: 8px;
 }
 div.post p.read-more a,
 div.post p.back a {
@@ -636,11 +636,11 @@ div.post p.back a:hover {
 }
 div.post p.date {
   color: #999999;
-  font-size: 16px;
+  font-size: 8px;
 }
 div.post p.comments {
   color: #999999;
-  font-size: 16px;
+  font-size: 8px;
 }
 div.post p.comments a {
   color: #999999;
