@@ -43,19 +43,6 @@
     <div class="row">
       <div class="span4 header">
         <div class="bg-img" style="background-image: url('{% if site.cover_photo %}{{ site.cover_photo }}{% else %}{{ assets('images/background.jpg') }}{% endif %}');"></div>
-          
-          {% if site.tags %}
-              <div class="tag-cloud">
-                <h4>Tags</h4>
-                  <ul>
-                  {% for tag in site.tags %}
-                  <li><a href="/tag/{{ tag.name }}">{{ tag.name }}</a></li>
-                  {% endfor %}
-                  </ul>
-              </div>
-          {% endif %}
-          
-          
         <div class="gradient"></div>
         <div class="title">
           <h1>{{ site.name }}</h1>
@@ -157,7 +144,19 @@
           <h4 class="sub-heading span6">No Posts Yet :(</h4>
           {% endif %}
       </div>
-
+        
+          {% if site.tags %}
+              <div class="tag-cloud">
+                <h4>Tags</h4>
+                  <ul>
+                  {% for tag in site.tags %}
+                  <li><a href="/tag/{{ tag.name }}">{{ tag.name }}</a></li>
+                  {% endfor %}
+                  </ul>
+              </div>
+          {% endif %}
+        
+        
       {% elif post %}
 
       <div class="span6 offset1 posts">
