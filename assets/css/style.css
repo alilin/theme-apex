@@ -406,9 +406,7 @@ div.header:after {
 div.posts {
   padding-top: 95px;
 }
-div.post h2 {
-  text-transform: uppercase;
-}
+div.post h2, 
 div.post h3 {
   padding-top: 5px;
   padding-bottom: 5px;
@@ -574,9 +572,11 @@ div.post div.post-body .post-content ol li {
 div.post div.post-body .post-content h1 {
   padding-bottom: 15px;
 }
-div.post div.post-body .post-content h2,
+div.post div.post-body .post-content h2 {
+  text-transform: uppercase;   
+}
 div.post div.post-body .post-content h3 {
-  padding-top: 15px;
+  padding-top: 5px;
 }
 div.post div.post-body .post-content img {
   max-width: 100%;
