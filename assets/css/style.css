@@ -649,8 +649,8 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 28px;
+  line-height: 30px;
   padding-bottom: 10px;
 }
 div.post h2 {
@@ -723,7 +723,7 @@ div.post ul.post-tags li {
 div.post ul.post-tags li a {
   font-size: 12px;
   line-height: 14px;
-  padding: 4px 8px 4px 8px;
+<!--  padding: 4px 8px 4px 8px; -->
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
