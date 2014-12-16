@@ -173,14 +173,14 @@
 /* Override Utilities
 --------------------------------------------- */
 .gist {
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 8px;
+  font-size: 0.8rem;
 }
 html {
   font-size: 100%;
 }
 body {
-  line-height: 1;
+  line-height: 1.65;
   font-family: 'Avenir', serif;
   height: 100%;
   width: 100%;
