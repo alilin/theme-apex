@@ -417,7 +417,7 @@ div.post h3 {
 }
 div.post p {
   font-size: 12px;
-  line-height: 30px;
+  line-height: 20px;
   font-weight: 300;
   margin: 0;
   padding: 10px 0 10px 0;
@@ -433,7 +433,7 @@ div.post ol li {
 }
 div.post blockquote {
   font-size: 12px;
-  line-height: 32px;
+  line-height: 20px;
   font-weight: 700;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
@@ -451,7 +451,7 @@ div.post h3 {
 }
 div.post p {
   font-size: 12px;
-  line-height: 30px;
+  line-height: 20px;
   font-weight: 300;
   margin: 0;
   padding: 10px 0 10px 0;
@@ -467,7 +467,7 @@ div.post ol li {
 }
 div.post blockquote {
   font-size: 12px;
-  line-height: 32px;
+  line-height: 20px;
   font-weight: 700;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
