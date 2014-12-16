@@ -571,7 +571,6 @@ div.post div.post-body .post-content ol li {
 }
 div.post div.post-body .post-content h1 {
   padding-bottom: 15px;
-  text-transform: capitalize;
 }
 div.post div.post-body .post-content h2,
 div.post div.post-body .post-content h3 {
@@ -654,10 +653,9 @@ div.post p.comments a:hover {
   color: #1abc9c;
 }
 div.post h1 {
-  font-size: 30px;
+  font-size: 40px;
   line-height: 30px;
   padding-bottom: 10px;
-  text-transform: capitalize;
 }
 div.post h2 {
   margin-top: 0;
