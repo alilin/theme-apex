@@ -860,7 +860,7 @@ div.footer ul li.link-icon a {
     padding: 0;
   }
   div.header {
-    position: relative;
+    position: absolute;
     height: 200px;
     border: 0px solid #ffffff;
   }
@@ -875,6 +875,7 @@ div.footer ul li.link-icon a {
     margin-top: 50px;
   }
   div.posts {
+    margin-top: 100px;
     padding: 100px 60px 0 60px;
     text-align: center;
   }
