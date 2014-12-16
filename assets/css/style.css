@@ -489,6 +489,7 @@ div.post div.post-body {
   font-family: 'Helvetica';
   font-size: 12px;
   line-height: 18px;
+  display: block;
 }
 div.post div.post-body .post-content {
   display: block;
