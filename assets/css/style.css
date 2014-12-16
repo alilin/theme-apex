@@ -433,8 +433,8 @@ div.post ol li {
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 18px;
-  font-family: 'Luma';
+  font-size: 20px;
+  font-family: 'Lora';
   line-height: 22px;
   color: #bbb;
   font-weight: 700;
@@ -493,7 +493,7 @@ div.post div.post-body {
   font-family: 'Helvetica';
   font-size: 12px;
   line-height: 18px;
-  overflow-y:hidden;
+  overflow:hidden;
 }
 div.post div.post-body .post-content {
   display: block;
