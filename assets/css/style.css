@@ -426,7 +426,7 @@ div.post ul li,
 div.post ol li {
   list-style-type: square;
   margin-left: 40px;
-  padding: 10px 0 10px 0;
+  padding: 5px 0 5px 0;
   line-height: 18pt;
   font-size: 12px;
   font-weight: 300;
@@ -434,6 +434,7 @@ div.post ol li {
 div.post blockquote {
   font-size: 12px;
   line-height: 18px;
+  color: #bbb;
   font-weight: 700;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
@@ -460,7 +461,7 @@ div.post ul li,
 div.post ol li {
   list-style-type: square;
   margin-left: 40px;
-  padding: 10px 0 10px 0;
+  padding: 5px 0 5px 0;
   line-height: 18pt;
   font-size: 12px;
   font-weight: 300;
@@ -468,6 +469,7 @@ div.post ol li {
 div.post blockquote {
   font-size: 12px;
   line-height: 18px;
+  color: #bbb;
   font-weight: 700;
   padding: 10px 0 10px 30px;
   margin-top: 10px;
@@ -489,7 +491,6 @@ div.post div.post-body {
   font-family: 'Helvetica';
   font-size: 12px;
   line-height: 18px;
-  padding: 7.5px 0;
 }
 div.post div.post-body .post-content {
   display: block;
