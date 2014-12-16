@@ -406,13 +406,14 @@ div.header:after {
 div.posts {
   padding-top: 95px;
 }
-div.post h2,
+div.post h2 {
+  text-transform: uppercase;
+}
 div.post h3 {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin: 0;
   line-height: default;
-  text-transform: uppercase;
 }
 div.post h3 {
   font-size: 18px;
@@ -444,8 +445,8 @@ div.post blockquote {
 }
 div.post h2,
 div.post h3 {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin: 0;
   line-height: default;
 }
