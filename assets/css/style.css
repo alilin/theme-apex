@@ -276,7 +276,6 @@ div.header div.title {
 }
 div.header div.title h1 {
   display: none;
-  text-transform: capitalize;
   width: 100%;
   text-align: center;
   font-size: 20px;
@@ -572,6 +571,7 @@ div.post div.post-body .post-content ol li {
 }
 div.post div.post-body .post-content h1 {
   padding-bottom: 15px;
+  text-transform: capitalize;
 }
 div.post div.post-body .post-content h2,
 div.post div.post-body .post-content h3 {
@@ -657,6 +657,7 @@ div.post h1 {
   font-size: 30px;
   line-height: 30px;
   padding-bottom: 10px;
+  text-transform: capitalize;
 }
 div.post h2 {
   margin-top: 0;
