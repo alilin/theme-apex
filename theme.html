@@ -175,8 +175,8 @@
               <div class="tag-cloud">
                 <h4>Tags</h4>
                   <ul>
-                  {% for tax in site.tags %}
-                  <li><a href="/tag/{{ tag.name }}">{{ tax.name }}</a></li>
+                  {% for tag in site.tags %}
+                  <li><a href="/tag/{{ tag.name }}">{{ tag.name }}</a></li>
                   {% endfor %}
                   </ul>
               </div>
