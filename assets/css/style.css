@@ -860,9 +860,9 @@ div.footer ul li.link-icon a {
     padding: 0;
   }
   div.header {
-    position: relative;
+    position: absolute;
     height: 200px;
-    border: 15px solid #ffffff;
+    border: 0px solid #ffffff;
   }
   div.header.span4 {
     margin: 0;
@@ -872,7 +872,7 @@ div.footer ul li.link-icon a {
     display: none;
   }
   div.header a.logo {
-    margin-top: 120px;
+    margin-top: 0px;
   }
   div.posts {
     padding: 100px 60px 0 60px;
