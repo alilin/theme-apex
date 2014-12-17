@@ -338,7 +338,7 @@ div.header div.site-description h1 {
   font-size: 20px;
   line-height: 30px;
   color: #ffffff;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 div.header div.site-description p {
   font-size: 16px;
@@ -411,10 +411,11 @@ div.post h3 {
   padding-top: 5px;
   padding-bottom: 0px;
   margin: 0;
-  line-height: default;
+  line-height: 16px;
 }
 div.post h3 {
-  font-size: 18px;
+  font-size: 16px;
+  color: #888888;
 }
 div.post p {
   font-size: 12px;
@@ -446,10 +447,11 @@ div.post h3 {
   padding-top: 5px;
   padding-bottom: 0px;
   margin: 0;
-  line-height: default;
+  line-height: 16px;
 }
 div.post h3 {
-  font-size: 18px;
+  font-size: 16px;
+  color: #888888;
 }
 div.post p {
   font-size: 12px;
@@ -570,7 +572,7 @@ div.post div.post-body .post-content ol li {
   list-style-type: decimal;
 }
 div.post div.post-body .post-content h1 {
-  padding-bottom: 15px;
+  padding-bottom: 0px;
 }
 div.post div.post-body .post-content h2,
 div.post div.post-body .post-content h3 {
@@ -655,7 +657,7 @@ div.post p.comments a:hover {
 div.post h1 {
   font-size: 25px;
   line-height: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 div.post h2 {
   margin-top: 0;
