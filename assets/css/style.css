@@ -409,7 +409,7 @@ div.posts {
 div.post h2,
 div.post h3 {
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   margin: 0;
   line-height: default;
 }
@@ -444,7 +444,7 @@ div.post blockquote {
 div.post h2,
 div.post h3 {
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   margin: 0;
   line-height: default;
 }
