@@ -418,7 +418,7 @@ div.post h3 {
   color: #888888;
 }
 div.post p {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 20px;
   font-weight: 300;
   margin: 0;
@@ -430,11 +430,11 @@ div.post ol li {
   margin-left: 40px;
   padding: 5px 0 5px 0;
   line-height: 18pt;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
   color: #999;
   font-weight: 700;
@@ -454,7 +454,7 @@ div.post h3 {
   color: #888888;
 }
 div.post p {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
   font-weight: 300;
   margin: 0;
@@ -466,11 +466,11 @@ div.post ol li {
   margin-left: 40px;
   padding: 5px 0 5px 0;
   line-height: 18pt;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 300;
 }
 div.post blockquote {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
   color: #bbbbbb;
   font-weight: 700;
@@ -492,7 +492,7 @@ div.post.whole {
 div.post div.post-body {
   font-weight: 400;
   font-family: 'Helvetica';
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
 }
 div.post div.post-body .post-content {
@@ -592,7 +592,7 @@ div.post div.post-body .post-content .post-pdf .pdf-fullscreen {
   bottom: 30px;
   left: 30px;
   color: #000;
-  font-size: 12px;
+  font-size: 11px;
   padding: 10px;
   background-color: #1abc9c;
   border-radius: 7px;
@@ -625,7 +625,7 @@ div.post div.post-body .post-content .post-pdf object {
 }
 div.post p {
   font-weight: 400;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
 }
 div.post p.read-more,
@@ -673,7 +673,7 @@ div.post h2 a:hover {
 div.post div.post-body ul li,
 div.post div.post-body ol li {
   font-weight: 400;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 18px;
 }
 div.post div.post-info {
@@ -841,7 +841,7 @@ div.footer ul li a {
   display: inline-block;
   margin: 0 30px 0 0;
   color: #1abc9c;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -914,7 +914,7 @@ div.footer ul li.link-icon a {
   bottom: 30px;
   left: 30px;
   color: #000;
-  font-size: 12px;
+  font-size: 11px;
   padding: 10px;
   background-color: #1abc9c;
   border-radius: 7px;
