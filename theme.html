@@ -124,6 +124,8 @@
             <div class="post-body" data-type-cleanup="true">
               {% if post.content|striptags|wordcount > 0%}
               <p>{{ post.content|striptags|truncate(200) }}</p>
+                              {% endif %}
+
             </div>
             <div class="post-info">
               <div class="info-left">
